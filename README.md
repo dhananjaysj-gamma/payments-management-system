@@ -1,6 +1,6 @@
 # 💳 Payments Management System
 
-A **console-based Java application** designed to manage incoming and outgoing payments within an organization. The system includes features like user registration, login, payment creation, status updates, report generation, and audit trail tracking.
+A **Java based application** designed to manage incoming and outgoing payments within an organization. The system includes features like user registration, login, payment creation, status updates, report generation, and audit trail tracking.
 
 ---
 
