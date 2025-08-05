@@ -105,7 +105,7 @@ public class Main {
         System.out.print("Enter amount: ");
         double amount = Double.parseDouble(scanner.nextLine());
 
-        System.out.print("Enter payment type (CREDIT / DEBIT): ");
+        System.out.print("Enter payment type (INCOMING / OUTGOING): ");
         String type = scanner.nextLine();
 
         System.out.print("Enter payment status (PENDING / COMPLETED / FAILED): ");
